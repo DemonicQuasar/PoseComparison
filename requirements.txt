@@ -1,0 +1,6 @@
+opencv-python
+mediapipe 
+matplotlib 
+fastdtw
+scipy
+# argparse is part of the Python standard library (no pip install needed) 
